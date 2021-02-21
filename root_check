@@ -18,3 +18,5 @@ fi
 # check memory
 
 free -m
+
+exit 99
